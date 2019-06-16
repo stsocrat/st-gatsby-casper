@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Github Source2
-image: img/MacBook Pro.png
+image: img/MacBookPro.png
 author: Stepa
 date: 2019-06-17T10:00:00.000Z
 tags:
